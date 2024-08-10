@@ -359,13 +359,6 @@ module.exports = {
       decimals: 6,
     },
     {
-      token: 'terra1cmf8ytutcwrjrv08zskj9phuh46a3w3nkjax7en4hxezsrdr58lqvzy05q',
-      symbol: 'Alem',
-      name: 'alentejo.money',
-      icon: process.env.CF_PAGES_URL + '/img/coins/alentejo.money.png',
-      decimals: 6,
-    },
-    {
       token: 'terra1nsuqsk6kh58ulczatwev87ttq2z6r3pusulg9r24mfj2fvtzd4uq3exn26',
       symbol: 'ASTRO.cw20',
       name: 'Astroport Token',
